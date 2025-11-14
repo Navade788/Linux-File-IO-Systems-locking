@@ -87,11 +87,10 @@ return 0;
 
 ## OUTPUT
 
-<img width="913" height="169" alt="image" src="https://github.com/user-attachments/assets/6d3ea270-f87b-4486-b5e5-26458a91c732" />
+<img width="527" height="122" alt="image" src="https://github.com/user-attachments/assets/3f94ea0b-5ac3-4663-ba77-818c6080de7e" />
 
+<img width="813" height="513" alt="image" src="https://github.com/user-attachments/assets/21cce29f-ce72-4ee0-a290-b5c4068e7849" />
 
-
-<img width="805" height="797" alt="image" src="https://github.com/user-attachments/assets/ea5c91ff-a22a-4316-9bb9-51805d1f216a" />
 
 # RESULT:
 The programs are executed successfully.
